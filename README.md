@@ -4,10 +4,9 @@
 
 > ⚠️ **Practice Project — Work in Progress** — This project is incomplete and built purely for **learning and practice purposes**. It was created to explore and compare feature extraction and dimensionality reduction techniques (PCA, TSVD, NMF, Kernel PCA, t-SNE) on real text data. It is not a production-ready application and results should not be used for any real world decisions.
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](YOUR_STREAMLIT_URL_HERE)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://news-analyzer-wvaizwm4qn2xew5uaiwvgm.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![sklearn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_REPO_URL_HERE)
 
 ---
 
@@ -21,7 +20,7 @@ The project uses the **20 Newsgroups dataset** — a collection of 18,846 real n
 
 ## 🚀 Live Demo
 
-> 🔗 **[Click here to open the app](YOUR_STREAMLIT_URL_HERE)**
+> 🔗 **[Click here to open the app](https://news-analyzer-wvaizwm4qn2xew5uaiwvgm.streamlit.app/)**
 
 > ⚠️ First load may take 2-3 minutes as models train on startup. Subsequent loads are instant thanks to Streamlit caching!
 
