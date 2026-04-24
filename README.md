@@ -137,6 +137,16 @@ Topic 15: space | shuttle | nasa | launch | moon     → Space ✅
 
 ---
 
+## 🔁 Extended Use — SGD Online Learning
+
+The 20 Newsgroups dataset was later reused in a separate practice project — **SGD StreamText** — to explore **online learning** using `SGDClassifier` with `partial_fit()`.
+
+Instead of training on the full dataset at once, articles were fed in mini-batches of 500 and the model updated itself incrementally — simulating a real-world data stream. The learning curve showed accuracy rising from 0.65 after the first batch to 0.86 after all batches, closely approaching the `LogisticRegression` batch baseline of 0.87.
+
+> 📄 See the separate `SGD_StreamText` repository for the full notebook and results.
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
